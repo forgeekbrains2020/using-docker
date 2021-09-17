@@ -1,4 +1,4 @@
 scm-api
-#git-content
+git-content
 git
 greenballs
