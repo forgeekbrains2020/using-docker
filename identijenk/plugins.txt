@@ -1,4 +1,0 @@
-scm-api
-#git-content
-git
-greenballs
